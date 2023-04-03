@@ -1,0 +1,2 @@
+# FutureCryptoTrader
+Future Crypto Trader
